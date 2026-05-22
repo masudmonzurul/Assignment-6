@@ -4,7 +4,7 @@ import tailwindcss from '@tailwindcss/vite'
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/A-6-DigiTools-Platform/',
+  base: '/Assignment-6/',
   plugins: [
     react(),
     tailwindcss()
