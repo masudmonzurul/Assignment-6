@@ -11,7 +11,7 @@
     "predeploy": "npm run build",
     "deploy": "gh-pages -d dist"
   },
-  "homepage": "https://github.com/masudmonzurul/A-6-DigiTools-Platform",
+ "homepage": "https://masudmonzurul.github.io/Assignment-6/",
   "dependencies": {
     "@tailwindcss/vite": "^4.2.2",
     "gh-pages": "^6.3.0",
